@@ -12,8 +12,6 @@ h6 {
   font-family: Lobster, Arial, sans-serif;
   font-weight: 700;
   color: white;
-  /*text-shadow: 2px 2px #FFFFCC;*/
-
   text-shadow: 2px 2px #474e5d;
 }
 
@@ -33,15 +31,6 @@ body {
   border: 2px solid #555555;
   border-radius: 25px;
 }
-
-/*
-.nav .nav .active a,
-.nav .nav .active:hover a,
-.nav .nav .active:focus a {
-  color: white;
-  background-color: #555555;
-}
-*/
 
 #homeNavBtn:hover,
 #homeNavBtn:focus{
@@ -98,9 +87,6 @@ body {
   padding-bottom: 50px;
   text-align: center;
   margin-top: 50px;
-  /*margin-bottom: 50px;*/
-  /*background-color: #99FFCC*/
-  
   color: white;
   background-color: #1abc9c;
 }
@@ -109,13 +95,12 @@ body {
   height: 875px;
   padding-top: 70px;
   padding-bottom: 50px;
-  /*text-align: center;*/
-  /*margin-top: 100px;*/
-  
   color: white;
-  /*background-color: #FF99CC;*/
-  
   background-color: #d33682;
+}
+
+#blog-link a{
+  color: white;
 }
 
 .portfolio-container {
@@ -123,20 +108,12 @@ body {
   padding-top: 60px;
   padding-bottom: 50px;
   text-align: center;
-  /*margin-top: 100px;*/
-  
   color: white;
   background-color: #555555;
 }
 
 .portfolio-element{
-  /*border-radius: 25px;*/
   border: 5px solid white;
-  
-  /*max-width: 300px;*/
-  /*margin: 2.5px;*/
-  /*padding-top: 10px;*/
-  /*padding-bottom: 10px;*/
 }
 
 .portfolio-element:hover{
@@ -147,12 +124,7 @@ body {
   height: 855px;
   padding-top: 70px;
   padding-bottom: 50px;
-  /*text-align: center;*/
-  /*margin-top: 100px;*/
-  
   color: white;
-  /*background-color: #FF99CC;*/
-  
   background-color: #268bd2;
   
 }
@@ -161,12 +133,7 @@ body {
   height: 855px;
   padding-top: 70px;
   padding-bottom: 50px;
-  /*text-align: center;*/
-  /*margin-top: 100px;*/
-  
   color: #586e75;
-  /*background-color: #FF99CC;*/
-  
   background-color: white;
 }
 
